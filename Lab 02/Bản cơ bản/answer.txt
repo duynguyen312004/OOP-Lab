@@ -2,4 +2,5 @@ Câu hỏi 1: Nếu bạn tạo một phương thức constructor để xây d�
 Trả lời:
 	Java cho phép tạo nhiều constructor trong cùng một lớp với các tham số khác nhau thông qua tính năng method overloading (nạp chồng phương thức). 
 	Điều này có nghĩa là bạn có thể tạo các constructor với các danh sách tham số khác nhau trong cùng một lớp mà không gây ra lỗi. 
-	Trong trường hợp này, bạn có thể tạo một constructor chỉ với title, một constructor khác với category, hoặc một constructor có cả title và category. Java sẽ chọn constructor phù hợp dựa trên số lượng 	và kiểu dữ liệu của các tham số khi bạn khởi tạo đối tượng.
+	Trong trường hợp này, bạn có thể tạo một constructor chỉ với title, một constructor khác với category, hoặc một constructor có cả title và category. 
+	Java sẽ chọn constructor phù hợp dựa trên số lượng và kiểu dữ liệu của các tham số khi bạn khởi tạo đối tượng.
